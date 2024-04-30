@@ -1,0 +1,14 @@
+C:\Users\nastu\OneDrive\Рабочий стол\Проекты\GeekBrains. Домашние задания\3. Введение в языки программирования\Рекурсия\bin\Debug\net8.0\Рекурсия.exe
+C:\Users\nastu\OneDrive\Рабочий стол\Проекты\GeekBrains. Домашние задания\3. Введение в языки программирования\Рекурсия\bin\Debug\net8.0\Рекурсия.deps.json
+C:\Users\nastu\OneDrive\Рабочий стол\Проекты\GeekBrains. Домашние задания\3. Введение в языки программирования\Рекурсия\bin\Debug\net8.0\Рекурсия.runtimeconfig.json
+C:\Users\nastu\OneDrive\Рабочий стол\Проекты\GeekBrains. Домашние задания\3. Введение в языки программирования\Рекурсия\bin\Debug\net8.0\Рекурсия.dll
+C:\Users\nastu\OneDrive\Рабочий стол\Проекты\GeekBrains. Домашние задания\3. Введение в языки программирования\Рекурсия\bin\Debug\net8.0\Рекурсия.pdb
+C:\Users\nastu\OneDrive\Рабочий стол\Проекты\GeekBrains. Домашние задания\3. Введение в языки программирования\Рекурсия\obj\Debug\net8.0\Рекурсия.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nastu\OneDrive\Рабочий стол\Проекты\GeekBrains. Домашние задания\3. Введение в языки программирования\Рекурсия\obj\Debug\net8.0\Рекурсия.AssemblyInfoInputs.cache
+C:\Users\nastu\OneDrive\Рабочий стол\Проекты\GeekBrains. Домашние задания\3. Введение в языки программирования\Рекурсия\obj\Debug\net8.0\Рекурсия.AssemblyInfo.cs
+C:\Users\nastu\OneDrive\Рабочий стол\Проекты\GeekBrains. Домашние задания\3. Введение в языки программирования\Рекурсия\obj\Debug\net8.0\Рекурсия.csproj.CoreCompileInputs.cache
+C:\Users\nastu\OneDrive\Рабочий стол\Проекты\GeekBrains. Домашние задания\3. Введение в языки программирования\Рекурсия\obj\Debug\net8.0\Рекурсия.dll
+C:\Users\nastu\OneDrive\Рабочий стол\Проекты\GeekBrains. Домашние задания\3. Введение в языки программирования\Рекурсия\obj\Debug\net8.0\refint\Рекурсия.dll
+C:\Users\nastu\OneDrive\Рабочий стол\Проекты\GeekBrains. Домашние задания\3. Введение в языки программирования\Рекурсия\obj\Debug\net8.0\Рекурсия.pdb
+C:\Users\nastu\OneDrive\Рабочий стол\Проекты\GeekBrains. Домашние задания\3. Введение в языки программирования\Рекурсия\obj\Debug\net8.0\Рекурсия.genruntimeconfig.cache
+C:\Users\nastu\OneDrive\Рабочий стол\Проекты\GeekBrains. Домашние задания\3. Введение в языки программирования\Рекурсия\obj\Debug\net8.0\ref\Рекурсия.dll
